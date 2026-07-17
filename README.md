@@ -95,7 +95,8 @@ Every attempt — including timestamp, session ID, source IP, and credentials us
 
 <img width="1920" height="922" alt="Nmap Scan Result" src="https://github.com/user-attachments/assets/46559479-c438-42c9-a1d2-5e3c381e9a7f" />
 <img width="1920" height="922" alt="Hydra Output" src="https://github.com/user-attachments/assets/e820f7b6-3f40-44ec-a2ab-302d5d39863a" />
-<img width="842" height="677" alt="Cowrie Log Excerpt" src="https://github.com/user-attachments/assets/7e5b94b0-4d08-4d5a-a765-5d608baff1b3" />
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/29b5c3d1-f39e-47d1-8572-c28491474db1" />
+
 
 ---
 
