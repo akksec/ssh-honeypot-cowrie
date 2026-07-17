@@ -93,7 +93,10 @@ Every attempt — including timestamp, session ID, source IP, and credentials us
 
 ## 📷 Evidence / Screenshots
 
-*(Add screenshots here: nmap scan result, hydra output, Cowrie log excerpt)*
+<img width="1920" height="922" alt="Nmap Scan Result" src="https://github.com/user-attachments/assets/46559479-c438-42c9-a1d2-5e3c381e9a7f" />
+<img width="1920" height="922" alt="Hydra Output" src="https://github.com/user-attachments/assets/e820f7b6-3f40-44ec-a2ab-302d5d39863a" />
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/29b5c3d1-f39e-47d1-8572-c28491474db1" />
+
 
 ---
 
@@ -106,15 +109,6 @@ Every attempt — including timestamp, session ID, source IP, and credentials us
 
 ---
 
-## 🚀 Future Improvements
-
-- [ ] Deploy Cowrie on a cloud VPS to capture real internet-based attack data
-- [ ] Build a Python script to auto-generate attack statistics and charts from logs
-- [ ] Add GeoIP lookup for attacker origin mapping
-- [ ] Integrate with the ELK stack for real-time log visualization
-
----
-
 ## 👤 Author
 
-Akk — Cybersecurity student, University of Computer Studies, Yangon (UCSY)
+Akk — Cybersecurity and Forensics student (CSF), University of Computer Studies, Yangon (UCSY)
