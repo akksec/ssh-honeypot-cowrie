@@ -110,6 +110,8 @@ Every attempt — including timestamp, session ID, source IP, and credentials us
 ---
 
 ## Development Notes
+This site was built using vibe coding (Claude) — design, structure, and 
+code were AI-assisted, with hands-on customization and review.
 
 ---
 
